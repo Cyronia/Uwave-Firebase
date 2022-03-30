@@ -1,0 +1,10 @@
+{
+  "name": "uwave-firebase",
+  "version": "0.0.1",
+  "dependencies": {
+    "firebase-tools": "^10.4.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
